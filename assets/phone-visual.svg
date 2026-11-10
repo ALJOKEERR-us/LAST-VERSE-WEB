@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 900" role="img" aria-label="Concept phone with neon green messaging interface">
+<defs>
+ <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b7ff00"/><stop offset=".35" stop-color="#39ff14"/><stop offset=".7" stop-color="#0b5d20"/><stop offset="1" stop-color="#b7ff00"/></linearGradient>
+ <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0b130d"/><stop offset=".55" stop-color="#030605"/><stop offset="1" stop-color="#071008"/></linearGradient>
+ <linearGradient id="bubble" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55ff21"/><stop offset="1" stop-color="#1cba12"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="12" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="28"/></filter>
+</defs>
+<ellipse cx="305" cy="460" rx="210" ry="370" fill="#39ff14" opacity=".12" filter="url(#soft)"/>
+<g transform="translate(65 34) rotate(-7 250 400)">
+ <rect x="55" y="24" width="450" height="810" rx="66" fill="#020403" stroke="url(#edge)" stroke-width="8" filter="url(#glow)"/>
+ <rect x="70" y="39" width="420" height="780" rx="54" fill="url(#screen)" stroke="#214c22" stroke-width="2"/>
+ <rect x="222" y="51" width="116" height="25" rx="13" fill="#010302"/>
+ <circle cx="320" cy="63" r="3" fill="#113f24"/>
+ <g fill="#39ff14" opacity=".9"><path d="M410 94h5v10h-5zM419 90h5v14h-5zM428 86h5v18h-5z"/><path d="M445 91q11 0 11 11h-4q0-7-7-7z"/><rect x="463" y="92" width="17" height="9" rx="2"/></g>
+ <circle cx="112" cy="130" r="23" fill="#39ff14" opacity=".17" stroke="#39ff14" stroke-width="2"/><circle cx="112" cy="124" r="8" fill="#39ff14"/><path d="M96 146q16-20 32 0" fill="#39ff14"/>
+ <rect x="150" y="112" width="126" height="12" rx="6" fill="#e7eee7" opacity=".75"/><rect x="150" y="132" width="82" height="9" rx="4.5" fill="#667468"/>
+ <path d="M414 125h18m-9-9v18" stroke="#39ff14" stroke-width="3" stroke-linecap="round"/><rect x="449" y="114" width="25" height="20" rx="5" fill="none" stroke="#39ff14" stroke-width="2"/>
+ <rect x="96" y="190" width="270" height="76" rx="25" fill="#18221c" stroke="#3c5540" stroke-width="2"/><rect x="122" y="211" width="185" height="12" rx="6" fill="#9aa69b" opacity=".55"/><rect x="122" y="234" width="140" height="9" rx="4" fill="#718075" opacity=".42"/>
+ <rect x="220" y="292" width="230" height="76" rx="25" fill="url(#bubble)" filter="url(#glow)"/><rect x="246" y="313" width="155" height="12" rx="6" fill="#eaffdf" opacity=".8"/><rect x="246" y="336" width="112" height="9" rx="4" fill="#eaffdf" opacity=".45"/>
+ <rect x="96" y="397" width="275" height="74" rx="24" fill="#17221b" stroke="#3c5540" stroke-width="2"/><rect x="122" y="418" width="190" height="12" rx="6" fill="#9aa69b" opacity=".55"/><rect x="122" y="441" width="135" height="9" rx="4" fill="#718075" opacity=".42"/>
+ <rect x="220" y="495" width="230" height="76" rx="25" fill="url(#bubble)" filter="url(#glow)"/><rect x="246" y="516" width="155" height="12" rx="6" fill="#eaffdf" opacity=".8"/><rect x="246" y="539" width="112" height="9" rx="4" fill="#eaffdf" opacity=".45"/>
+ <rect x="125" y="600" width="260" height="125" rx="24" fill="#0b1b0e" stroke="#44d92a" stroke-width="2"/><path d="M140 696q48-82 92-37t66-3q32-38 73 3v31H140Z" fill="#1b6d1f" opacity=".8"/><circle cx="319" cy="641" r="17" fill="#b7ff00" filter="url(#glow)"/><path d="M140 696q48-82 92-37t66-3q32-38 73 3" fill="none" stroke="#7bff48" stroke-width="3"/>
+ <rect x="220" y="748" width="230" height="48" rx="24" fill="#0d1710" stroke="#315334" stroke-width="2"/><circle cx="248" cy="772" r="8" fill="#39ff14"/><circle cx="272" cy="772" r="8" fill="#39ff14"/><circle cx="296" cy="772" r="8" fill="#39ff14"/>
+ <path d="M78 350v72M78 445v55" stroke="#7dff42" stroke-width="5" stroke-linecap="round" opacity=".5"/>
+</g>
+</svg>
