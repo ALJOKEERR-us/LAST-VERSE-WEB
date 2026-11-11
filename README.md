@@ -33,7 +33,7 @@ The EN / عربي control switches all translated page text, direction, page tit
 - The website is informational only; it does not implement application functionality.
 - Application capabilities are described as planned features and are not represented as currently launched.
 - Policy sections are preliminary drafts and require review before launch.
-- WhatsApp inquiries and collaboration: `01025895883` (`https://wa.me/201025895883`).
+- WhatsApp inquiries and collaboration: `01094529926` (`https://wa.me/201094529926`).
 - Vodafone Cash financial support only: `01094529926`.
 
 See `SECURITY-REVIEW.md` for the static-site review and deployment limitations.
